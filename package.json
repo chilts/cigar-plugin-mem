@@ -1,0 +1,17 @@
+{
+  "name": "cigar-plugin-mem",
+  "description": "Memory plugin for Cigar which returns the totalmem and the freemem of the system.",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "cigar",
+    "cigar-plugin",
+    "mem",
+    "memory"
+  ],
+  "devDependencies": {
+    "tape": "~2.3.0"
+  }
+}
